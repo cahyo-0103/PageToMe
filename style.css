@@ -33,6 +33,9 @@ body {
   max-width: 500px;
 }
 
+.br {
+  margin-top: 10px;
+}
 /* BUTTON CONTAINER */
 .hero div {
   width: 100%;
